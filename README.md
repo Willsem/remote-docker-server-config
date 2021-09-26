@@ -34,6 +34,12 @@ PasswordAuthentication no
 AllowUsers www
 ```
 
+#### Restart ssh
+
+```
+sudo service ssh restart
+```
+
 ## Setup the docker repository
 
 ```
